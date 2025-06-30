@@ -56,7 +56,7 @@ On user input:
 
  - Retrieved top-3 relevant Q&A entries from Chroma
 
- = Constructed a prompt with retrieved context and user question
+ - Constructed a prompt with retrieved context and user question
 
  - Sent prompt to LLM and received generated response
 
