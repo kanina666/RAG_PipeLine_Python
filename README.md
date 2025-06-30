@@ -65,12 +65,13 @@ On user input:
 - Evaluated effectiveness of the final system and documented key findings
 
 Technologies Used
-Python 3.9+
 
-Pandas, NLTK, scikit-learn, Matplotlib
+- Python 3.9+
 
-SentenceTransformers
+- Pandas, NLTK, scikit-learn, Matplotlib, seaborn, torch
+ 
+- SentenceTransofrmer
+ 
+- Chroma (vector DB)
 
-Chroma (vector DB)
-
-Google AI Studio API
+- Google AI Studio API
