@@ -1,4 +1,5 @@
 Project Overview
+
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using the StackSample dataset (a 10% sample of Stack Overflow data). The goal is to build an end-to-end system that retrieves relevant information from a knowledge base and uses a language model to generate accurate, context-aware answers to user questions.
 
 The pipeline is developed incrementally through lab assignments 3 to 6, resulting in a working prototype that:
